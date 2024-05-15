@@ -1,2 +1,2 @@
 # nu_nightcord_at_25
-coming soon...
+<a href="docs">click here!</a>
