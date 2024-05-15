@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="260" height="40" viewBox="0 0 260 40" style="background-color:#ccaa88">
   <title>名大ニーゴ同好会</title>
+  <rect x="0" y="0" width="260" height="40" fill="#ccaa88" stroke-width="5"/>
   <text x="5" y="30" font-family="Verdana" font-size="30" fill=" #884499">
      名大ニーゴ同好会
   </text>
