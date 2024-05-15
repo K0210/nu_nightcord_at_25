@@ -6,7 +6,7 @@ body {
 }
 header {
 	text-align: left;
-	background-color: rgba(34,145,152,255);
+	background-color: #bb6688;
 	color: rgba(150,210,210,255);
 	position: fixed;
 	top: 0;
