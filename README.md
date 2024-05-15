@@ -1,5 +1,5 @@
 <head>
- <link rel="stylesheet" href="style.css">
+ <link rel="stylesheet" href="docs/style.css">
 </head>
 <body>
 <h1>nu_nightcord_at_25</h1>
