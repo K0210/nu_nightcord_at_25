@@ -1,2 +1,3 @@
 # nu_nightcord_at_25
-coming soon...
+名大ニーゴ同好会のホームページです。
+<a href="docs">click here!</a>
