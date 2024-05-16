@@ -6,6 +6,7 @@
  <header>
   <h1>nu_nightcord_at_25</h1>
  </header>
+ ↓click here!↓
  名大ニーゴ同好会のホームページです。<br>
  <a href="docs"><img src="image/nu_night.svg" alt="名大ニーゴ同好会"></a>
 </body>
