@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="20" viewBox="0 0 150 20">
   <title>トップページに戻る</title>
   <rect x="0" y="0" width="150" height="20" stroke="ffffff" fill="transparent" stroke-width="5"/>
-  <text x="2" y="15" font-family="Verdana" font-size="16" fill=" #ffffff">
+  <text x="2" y="15" font-family="Verdana" font-size="16" fill=" rgba(150,210,210,127)">
      トップページに戻る
   </text>
 </svg>
