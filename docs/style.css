@@ -28,10 +28,15 @@ h1 {
 .Amia {
 	background-color: #ddaacc;
 }
-a {
+a:link {
 	color:#bb6688;
 }
 a:hover {
 	color:#8888cc;
 }
-a:
+a:active {
+	color:#ccbb88;
+}
+a:visited {
+	color:#ddaacc;
+}
