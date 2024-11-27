@@ -6,13 +6,15 @@ body {
 }
 header {
 	text-align: left;
-	padding-bottom: 999rem;
 	background-color: #bb6688;
 	color: rgba(150,210,210,255);
 	position: fixed;
 	top: 0;
 	left: 0;
 	right: 0;
+}
+footer {
+	padding-bottom: 999rem;
 }
 h1 {
 	line-height: 2;
