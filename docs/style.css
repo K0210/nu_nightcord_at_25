@@ -6,6 +6,7 @@ body {
 }
 header {
 	text-align: left;
+	padding-bottom: 999rem;
 	background-color: #bb6688;
 	color: rgba(150,210,210,255);
 	position: fixed;
